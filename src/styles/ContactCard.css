@@ -1,0 +1,17 @@
+/* ContactCard.css */
+
+.contactCardLogo {
+  width: 80%;
+  margin: 0 auto 24px;
+}
+
+.contactInfoCard {
+  padding: 14px 22px;
+  border: solid;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 0 auto;
+  line-height: 26px;
+  background-color: inherit; /* Adjust based on your theme */
+}
